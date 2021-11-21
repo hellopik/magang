@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/magang/static/css/main.4c236c6e.chunk.css",
+    "main.js": "/magang/static/js/main.7777353f.chunk.js",
+    "main.js.map": "/magang/static/js/main.7777353f.chunk.js.map",
+    "runtime-main.js": "/magang/static/js/runtime-main.2a0ca24c.js",
+    "runtime-main.js.map": "/magang/static/js/runtime-main.2a0ca24c.js.map",
+    "static/js/2.253b1270.chunk.js": "/magang/static/js/2.253b1270.chunk.js",
+    "static/js/2.253b1270.chunk.js.map": "/magang/static/js/2.253b1270.chunk.js.map",
+    "static/js/3.ad7e267e.chunk.js": "/magang/static/js/3.ad7e267e.chunk.js",
+    "static/js/3.ad7e267e.chunk.js.map": "/magang/static/js/3.ad7e267e.chunk.js.map",
+    "static/css/4.76bea798.chunk.css": "/magang/static/css/4.76bea798.chunk.css",
+    "static/js/4.a75b4765.chunk.js": "/magang/static/js/4.a75b4765.chunk.js",
+    "static/js/4.a75b4765.chunk.js.map": "/magang/static/js/4.a75b4765.chunk.js.map",
+    "static/js/5.4800104e.chunk.js": "/magang/static/js/5.4800104e.chunk.js",
+    "static/js/5.4800104e.chunk.js.map": "/magang/static/js/5.4800104e.chunk.js.map",
+    "static/js/6.14af422e.chunk.js": "/magang/static/js/6.14af422e.chunk.js",
+    "static/js/6.14af422e.chunk.js.map": "/magang/static/js/6.14af422e.chunk.js.map",
+    "index.html": "/magang/index.html",
+    "static/css/4.76bea798.chunk.css.map": "/magang/static/css/4.76bea798.chunk.css.map",
+    "static/css/main.4c236c6e.chunk.css.map": "/magang/static/css/main.4c236c6e.chunk.css.map",
+    "static/js/2.253b1270.chunk.js.LICENSE.txt": "/magang/static/js/2.253b1270.chunk.js.LICENSE.txt",
+    "static/js/3.ad7e267e.chunk.js.LICENSE.txt": "/magang/static/js/3.ad7e267e.chunk.js.LICENSE.txt",
+    "static/js/4.a75b4765.chunk.js.LICENSE.txt": "/magang/static/js/4.a75b4765.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a0ca24c.js",
+    "static/js/2.253b1270.chunk.js",
+    "static/css/main.4c236c6e.chunk.css",
+    "static/js/main.7777353f.chunk.js"
+  ]
+}
